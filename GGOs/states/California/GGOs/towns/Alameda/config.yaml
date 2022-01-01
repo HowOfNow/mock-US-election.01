@@ -1,0 +1,49 @@
+---
+contests:
+  state representative:
+    tally: plurality
+    candidates:
+      Up Down: partyA
+      Left Right: partyB
+      write-in: true
+  state senate:
+    tally: plurality
+    candidates:
+      Cold Hot: partyA
+      Pink Blue: partyB
+    write-in: true
+  mayor:
+    tally: rcv
+    candidates:
+      Mary Roberts: partyA
+      Robert Mary: partyB
+      Jane Doe: partyB
+      John Doe: partyC
+      Tom Jones: partyC
+    write-in: true
+  alderman ward 1:
+    tally: rcv
+    candidates:
+      Q One: partyC
+      W Two: partyC
+      e Foo: partyC
+    write-in: true
+  alderman ward 2:
+    tally: rcv
+    candidates:
+      Q One: partyC
+      W Two: partyC
+      e Foo: partyC
+    write-in: true
+  alderman ward 3:
+    tally: rcv
+    candidates:
+      Q Bbb: partyC
+      W Ccc: partyC
+      e Ddd: partyC
+    write-in: true
+vote centers:
+  Emeryville Senior Center:
+    address: 4321 Salem St Emeryville CA
+    id: 000001
+submodules: []

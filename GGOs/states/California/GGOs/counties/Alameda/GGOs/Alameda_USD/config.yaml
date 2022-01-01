@@ -1,0 +1,13 @@
+---
+contests:
+  School Board:
+    tally: rcv
+    candidates:
+      Jim Green: partyA
+  School Superintendent:
+    tally: rcv
+    candidates:
+      Hey There: partyA
+      Ta Da: partyB
+      So Ho: partyB
+submodules:[]

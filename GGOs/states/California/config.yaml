@@ -1,0 +1,38 @@
+---
+contests:
+  US president:
+    tally: plurality
+    candidates:
+      Foo Bar: partyA
+      Goo Car: partyB
+    write-in: false
+  US senate:
+    tally: rcv
+    candidates:
+      Yellow Green: PartyA
+      Blue Red: PartyB
+      Gold Silver: PartyB
+    write-in: false
+  US house:
+    tally: rcv
+    candidates:
+      One Two: partyA
+      Three Four: partyA
+      Five Six: partyB
+    write-in: false
+  governor:
+    tally: plurality
+    candidates:
+      Up Down: partyA
+      Left Right: partyB
+    write-in: true
+GGOs:
+  counties:
+    - Alameda
+    - Alpine
+    - Amador
+  towns:
+    - Adelanto
+    - Agoura Hills
+    - Alameda
+submodules: []
