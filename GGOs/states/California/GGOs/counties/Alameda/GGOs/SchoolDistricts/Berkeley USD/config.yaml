@@ -1,0 +1,14 @@
+---
+contests:
+  School Board:
+    tally: rcv
+    candidates:
+      Luke Skywalker: partyB
+      Anne Betty: PartyC
+  School Superintendent:
+    tally: rcv
+    candidates:
+      Yoda: partyA
+      Tom Hans: partyB
+      10 11: partyB
+submodules: []

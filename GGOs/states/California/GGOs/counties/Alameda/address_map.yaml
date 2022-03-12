@@ -1,0 +1,12 @@
+---
+# Implementation notes:  there are no address-map-redirect or blank-ballots
+# keys here because there are none.  When there are none, one must walk back
+# up the tree until the first address-map-redirect is found.  And then walk
+# down the tree to find blank-ballots.  That happens to be where that data is
+# if it is needed to from this spot.  But the ElectionConfig should explicitly
+# have it regardless.
+ggos:
+  towns:
+  - Alameda
+  - Berkeley
+  - Oakland

@@ -1,0 +1,10 @@
+---
+contests:
+  US house:
+    tally: rcv
+    candidates:
+      7 8: partyA
+      9 10: partyA
+      11 12: partyB
+    write-in: false
+submodules: []

@@ -3,11 +3,11 @@ contests:
   School Board:
     tally: rcv
     candidates:
-      Jim Green: partyA
+      Hans Solo: partyB
+      Someone Else: PartyC
   School Superintendent:
     tally: rcv
     candidates:
-      Hey There: partyA
-      Ta Da: partyB
-      So Ho: partyB
-submodules:[]
+      Tommy: partyA
+      111 222: partyB
+submodules: []

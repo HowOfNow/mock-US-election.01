@@ -13,13 +13,6 @@ contests:
       Blue Red: PartyB
       Gold Silver: PartyB
     write-in: false
-  US house:
-    tally: rcv
-    candidates:
-      One Two: partyA
-      Three Four: partyA
-      Five Six: partyB
-    write-in: false
   governor:
     tally: plurality
     candidates:
@@ -29,10 +22,12 @@ contests:
 GGOs:
   counties:
     - Alameda
-    - Alpine
-    - Amador
+    - Santa Clara
   towns:
-    - Adelanto
-    - Agoura Hills
     - Alameda
+    - Alum Rock
+    - Berkeley
+    - Evergreen
+    - Milpitas
+    - Oakland
 submodules: []

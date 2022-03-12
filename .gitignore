@@ -1,3 +1,15 @@
+# For ease of manual testing
 .gitmessage
-.git_config
+.gitconfig_stub
+
+# Emacs
 *~
+.#*
+\#*\#
+
+# Mac
+.DS_Store
+
+# pytest
+__pycache__
+.pytest_cache
