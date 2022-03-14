@@ -1,4 +1,8 @@
 ---
+GGOs:
+  councildistricts:
+  - Council Districy 1
+  - Council Districy 2
 contests:
   - name: state representative
     tally: plurality
